@@ -108,4 +108,4 @@ class ListIterator(Iter):
 a=[1,2,3,5]
 test=ListIterator(a)
 for i in test:
-    print(i)
+    print(str(i),end=' ')

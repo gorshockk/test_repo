@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fa4f041-bfed-4a84-ac54-0005bb266459" name="Changes" comment="Second lab">
-      <change afterPath="$PROJECT_DIR$/labs/lab4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/lab5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/lab4.py" beforeDir="false" afterPath="$PROJECT_DIR$/labs/lab4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +36,7 @@
   &quot;keyToString&quot;: {
     &quot;Python.lab2.executor&quot;: &quot;Run&quot;,
     &quot;Python.lab3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab4.executor&quot;: &quot;Run&quot;,
     &quot;Python.script.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
